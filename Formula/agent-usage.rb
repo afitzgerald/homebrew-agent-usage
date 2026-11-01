@@ -1,9 +1,9 @@
 class AgentUsage < Formula
   desc "Tracks Claude Code usage and writes it to a file any app can read"
   homepage "https://github.com/afitzgerald/agent-usage"
-  url "https://github.com/afitzgerald/agent-usage/releases/download/v0.1.4/agent-usage-v0.1.4.zip"
-  version "0.1.4"
-  sha256 "85811aa9ba103f175186ed829b94d8ec9702acbb65d1d69eb2e78b9aec9e3676"
+  url "https://github.com/afitzgerald/agent-usage/releases/download/v0.1.5/agent-usage-v0.1.5.zip"
+  version "0.1.5"
+  sha256 "43845d652cb3a118518adf0edf05e94b168e9362d4429d95c5390fbcb8ded815"
   license "MIT"
 
   depends_on macos: :sonoma
